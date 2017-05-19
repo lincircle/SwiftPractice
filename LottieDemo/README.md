@@ -1,0 +1,1 @@
+![Example](LottieDemo.gif)
